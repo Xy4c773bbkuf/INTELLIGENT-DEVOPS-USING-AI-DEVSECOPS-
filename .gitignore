@@ -1,0 +1,21 @@
+# 🔒 Virtual environments
+.venv/
+venv/
+
+# 🔐 Environment variables (API keys)
+.env
+
+# 🐍 Python cache
+__pycache__/
+*.pyc
+
+# 🧪 Logs
+*.log
+
+# 🖥 OS generated files
+.DS_Store
+Thumbs.db
+
+# 🔍 Semgrep outputs
+*.json
+*.sarif
